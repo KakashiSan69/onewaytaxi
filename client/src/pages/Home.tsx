@@ -55,13 +55,13 @@ const stats = [
 ];
 
 const fleet: { name: string; tag: string; copy: string; image: string }[] = [
-  { name: "Maruti Ertiga", tag: "7 Seater", copy: "A spacious 7-seater built for relaxed family travel, airport runs and weekend plans.", image: "/images/generated/neon-ertiga.jpg" },
-  { name: "Toyota Etios", tag: "Sedan", copy: "A dependable sedan with comfortable seating for city transfers and intercity routes.", image: "/images/generated/neon-etios.jpg" },
-  { name: "Honda City", tag: "Premium", copy: "A polished premium sedan for executive travel, airport transfers and special occasions.", image: "/images/generated/neon-honda-city.jpg" },
-  { name: "Swift Dzire", tag: "Budget", copy: "An efficient everyday sedan for practical city travel and value-conscious journeys.", image: "/images/generated/neon-swift-dzire.jpg" },
-  { name: "Innova Crysta", tag: "Luxury", copy: "A refined SUV with generous space for family travel, luggage and long-distance comfort.", image: "/images/generated/neon-innova-crysta.jpg" },
-  { name: "Tempo Traveller", tag: "Group", copy: "A comfortable group vehicle for tours, events, corporate outings and family travel.", image: "/images/generated/neon-tempo-traveller.jpg" },
-  { name: "12 Seater Tempo Traveller", tag: "12 Seater", copy: "Extra room for medium-sized groups who want a smooth, coordinated travel experience.", image: "/images/generated/neon-tempo-12-seater.jpg" },
+  { name: "Maruti Ertiga", tag: "7 Seater", copy: "A spacious 7-seater built for relaxed family travel, airport runs and weekend plans.", image: "/images/generated/fleet-ertiga.jpg" },
+  { name: "Toyota Etios", tag: "Sedan", copy: "A dependable sedan with comfortable seating for city transfers and intercity routes.", image: "/images/generated/fleet-etios.jpg" },
+  { name: "Honda City", tag: "Premium", copy: "A polished premium sedan for executive travel, airport transfers and special occasions.", image: "/images/generated/fleet-honda-city.jpg" },
+  { name: "Swift Dzire", tag: "Budget", copy: "An efficient everyday sedan for practical city travel and value-conscious journeys.", image: "/images/generated/fleet-swift-dzire.jpg" },
+  { name: "Innova Crysta", tag: "Luxury", copy: "A refined SUV with generous space for family travel, luggage and long-distance comfort.", image: "/images/generated/fleet-innova-crysta.jpg" },
+  { name: "Tempo Traveller", tag: "Group", copy: "A comfortable group vehicle for tours, events, corporate outings and family travel.", image: "/images/generated/fleet-tempo-traveller.jpg" },
+  { name: "12 Seater Tempo Traveller", tag: "12 Seater", copy: "Extra room for medium-sized groups who want a smooth, coordinated travel experience.", image: "/images/generated/fleet-tempo-12-seater.jpg" },
 ];
 
 const aboutCards: { icon: LucideIcon; title: string; copy: string }[] = [
